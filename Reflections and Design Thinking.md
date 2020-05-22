@@ -1,3 +1,5 @@
+## 200-300 Word Reflection
+
 ### Objective 3. Describe your approach from a Design Thinking principles perspective
 Design thinking is an integral part of designing the system as it takes into account the customer- placing them as the focus for everything we do. By combining agile decision-making and centering our objectives on the removal of pain points for the customer journey, we can create an efficient approach towards designing the system. 
 
