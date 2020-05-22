@@ -79,5 +79,4 @@
 	-New insights on different cultures
 
 ### What other thoughts and feelings might motivate their behavior?
-Wanting to explore and travel
-The feeling of exploration and adventure would invoke these behaviour of wanting to go on a holiday
+Wanting to explore and travel & the feeling of exploration and adventure would invoke these behaviour of wanting to go on a holiday
