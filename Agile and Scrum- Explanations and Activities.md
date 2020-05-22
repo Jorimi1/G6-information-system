@@ -14,6 +14,7 @@ The 3 Roles make up a basic Scrum team and is composed of:
 * The Product Owner
 * The Scrum Master 
 * The Development Team. 
+
 The Product Owner is a single person which allows for faster decision making and clearer lines of responsibility. The Scrum Master acts like a referee for the Product Owner and the Development Team, responsible for ensuring Scrum methodology is understood and used correctly. The Development Team builds the workable product during each Sprint. It is autonomous and has no defined hierarchy. 
 
 The 4 events that make up Scrum are also activities that we will be conducting. They are: 
