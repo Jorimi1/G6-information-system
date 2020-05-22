@@ -8,6 +8,8 @@ Agile methodology stems from the failures of the waterfall model and its inabili
 
 By valuing the items on the left more than those on the right, Agile results in a highly iterative and incremental system development process, achieving a workable product when an iteration is complete.
 
+
+
 An example of an Agile methodology is SCRUM, which we will be using to carry out the creation of The System. It features Sprints, which are periods between 14-30 days to develop a workable product including design, coding, testing and documentation. The most common way of describing Scrum is breaking it into its components, which consist of: 3 Roles, 4 Events and 3 Artefacts. 
 
 The 3 Roles make up a basic Scrum team and is composed of: 
