@@ -1,10 +1,10 @@
 ### Objective 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use. 
 
 Agile methodology stems from the failures of the waterfall model and its inability to adapt to the fast paced changing nature of the modern world. Agile development follows a range of philosophies and guidelines, which can be aptly described by the Agile Manifesto:
-Individuals and Interactions over Processes and Tools
-Working Software over Comprehensive Documentation
-Customer Collaboration over Contract Negotiation
-Responding to change over Following a plan
+* Individuals and Interactions over Processes and Tools
+* Working Software over Comprehensive Documentation
+* Customer Collaboration over Contract Negotiation
+* Responding to change over Following a plan
 
 By valuing the items on the left more than those on the right, Agile results in a highly iterative and incremental system development process, achieving a workable product when an iteration is complete.
 
