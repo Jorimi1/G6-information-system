@@ -25,4 +25,14 @@ Activities that we will be conducting during the making of the system revolves a
 * Sprint Retrospective
 * Daily Scrum Meeting 
 
-Sprints start with planning, 
+During sprint planning, we were able to define our goals and what we were to achieve with the work that we were assigned. We broke up each section into different weeks. During week 1 of the sprint, we were able to create an empathy map and list all of the different stakeholders. In week 2, we decided to complete a design thinking principles and all of the different user cases involved with the users stories. In week 3, we concluded that we had to get all of the models and diagrams done. In week 4, we were going to list the competitive advantages and its effects on the holiday package system. We hosted scrum meetings on a regular basis to see our accomplishments.
+
+By using sprint review, we were able to assess the work that we have done by that given week and what has not been completed. In doing this we were able to come to a conclusion of what we had to do next week to complete the task by the due date. In conjunction with sprint review, we used a sprint retrospect to find ways for our team to improve as a whole and see what we have to do by the following week. 
+
+The three artifacts that make up the scrum that we have used in determining the goals of the holiday package system are:
+*Product backlog
+*Sprint backlog
+*Sprint burndown chart
+ 
+In a product backlog, it contains an ordered list of everything that might be needed in a product. This may include requirements for the said product. By understanding the requirement of the product we were able to extract different stakeholders involved with the product and understand how each of them feels about the given product. We developed an empathy map to understand the different requirements for all of the different stakeholders. This includes how they feet, what they say, what they hear, what they do and what they see about the product. We were able to also come up with a problem definition for us to solve and finish.
+
