@@ -30,9 +30,9 @@ During sprint planning, we were able to define our goals and what we were to ach
 By using sprint review, we were able to assess the work that we have done by that given week and what has not been completed. In doing this we were able to come to a conclusion of what we had to do next week to complete the task by the due date. In conjunction with sprint review, we used a sprint retrospect to find ways for our team to improve as a whole and see what we have to do by the following week. 
 
 The three artifacts that make up the scrum that we have used in determining the goals of the holiday package system are:
-*Product backlog
-*Sprint backlog
-*Sprint burndown chart
+* Product backlog
+* Sprint backlog
+* Sprint burndown chart
  
 In a product backlog, it contains an ordered list of everything that might be needed in a product. This may include requirements for the said product. By understanding the requirement of the product we were able to extract different stakeholders involved with the product and understand how each of them feels about the given product. We developed an empathy map to understand the different requirements for all of the different stakeholders. This includes how they feet, what they say, what they hear, what they do and what they see about the product. We were able to also come up with a problem definition for us to solve and finish.
 
