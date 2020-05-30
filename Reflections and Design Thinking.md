@@ -11,15 +11,15 @@ Design thinking is an integral part of designing the system as it considers the 
 *	Buy affordable holiday packages
 *	Experience something interesting and meaningful
 
-##### From these POV statements, we have developed the following "How might we" (HMW) statements:
+#### From these POV statements, we have developed the following "How might we" (HMW) statements:
 * How might we let RM’s better understand customers?
 * How might we let RM’s further their career path and at the same time provide customers with satisfaction? 
 
 #### Assumptions made:
-•	The RM Profile and Skill Matrix tool is considered The RM Profiler Tool
-•	The Customer Profiler Tool and the RM Profiler Tool work perfectly
-•	The RM Profiler Tool automatically does the adjustments to an RM’s profile based on their performance
-•	The Outbound Call System contains the database and target list generation which is used by The System
+*	The RM Profile and Skill Matrix tool is considered The RM Profiler Tool
+*	The Customer Profiler Tool and the RM Profiler Tool work perfectly
+*	The RM Profiler Tool automatically does the adjustments to an RM’s profile based on their performance
+*	The Outbound Call System contains the database and target list generation which is used by The System
 
 
 
