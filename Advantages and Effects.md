@@ -8,7 +8,7 @@ As productivity and efficiency are enhanced, there will be less time and resourc
 
 
 
-There are four types of information system failure. 
+### There are four types of information system failure. 
 Process failure: when the project cannot be developed within the allocated budget or time frame
 Correspondence failure: when the objectives and goals of the systems design are not met 
 Expectation failure: when the system doesn't meet user expectations or requirements
