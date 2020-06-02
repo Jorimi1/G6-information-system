@@ -17,7 +17,7 @@ Reinforcing customer loyalty by prioritising customers based on their likelihood
 4. Interaction failure: this is attributed to the level of end-user usage of the implemented information system
 
 
-Effects
+#### Effects
 * Each of the above failures will cause huge financial loss to the business. Information system projects require a huge amount of money to develop and implement in terms of capital and labour. 
 * Another effect on the business is the difficulty to increase sales and potentially loss of customers and revenue streams without the streamline effect of the new information system. 
 
