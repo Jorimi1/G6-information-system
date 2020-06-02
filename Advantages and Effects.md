@@ -10,7 +10,7 @@ Reinforcing customer loyalty by prioritising customers based on their likelihood
 8. As productivity and efficiency are enhanced, there will be less time and resources required to manage customers queries, ultimately it will reduce the operational costs for the business. 
 
 
-####There are four types of information system failure. 
+#### There are four types of information system failure. 
 1. Process failure: when the project cannot be developed within the allocated budget or time frame
 2. Correspondence failure: when the objectives and goals of the systems design are not met 
 3. Expectation failure: when the system doesn't meet user expectations or requirements
