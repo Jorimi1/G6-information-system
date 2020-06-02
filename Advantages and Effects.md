@@ -19,6 +19,8 @@ Reinforcing customer loyalty by prioritising customers based on their likelihood
 
 #### Effects
 * Each of the above failures will cause huge financial loss to the business. Information system projects require a huge amount of money to develop and implement in terms of capital and labour. 
-* Another effect on the business is the difficulty to increase sales and potentially loss of customers and revenue streams without the streamline effect of the new information system. 
+* By taking on this project, and it resulting in failure, would also lead to a waste of valuable resources and more importantly time. In essence- opportunity cost, as you are losing out on another potentially successful project by taking on this one.
+* Another effect on the business is the difficulty to increase sales and potentially loss of customers and revenue streams without the streamline effect of the new information system. This may also impact company reputation and goodwill, which leads to further loss of either partners or potential customers.
+
 
 
